@@ -1,0 +1,24 @@
+
+.fs-14
+{
+    font-size: 13px;
+}
+.fs-11
+{
+    font-size: 11 px;
+}
+.traitim,.taikhoan,.giohang
+{
+    width: 40 px;
+    height: 40 px;
+    margin:auto ;
+    border:1px solid rgb(78, 75, 75);
+    border-radius: 90%;
+    text-align: center;
+    line-height:40px ;
+} 
+.bg-footer
+{
+    background-color: black;
+    color: antiquewhite;
+}  
